@@ -1,0 +1,6 @@
+src/key
+src/key.pub
+src/packs.zip
+src/packs.json
+__pycache__/
+*.log
