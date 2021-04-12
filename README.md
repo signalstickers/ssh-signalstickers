@@ -21,6 +21,11 @@ Install [PuTTY](https://www.putty.org/), and connect to `ssh.signalstickers.com`
 
 If you have WSL installed, refer to the *nix previous chapter.
 
+### Current key fingerprint
+
+```
+SHA256:1dTyx71w4IEyGFfaCb9oKtz2RHl/tHgCX9V4WBwKdB8
+```
 
 ## Dev
 
